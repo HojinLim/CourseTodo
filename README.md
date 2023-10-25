@@ -1,7 +1,4 @@
 # CourseTodo
 
-![image](https://github.com/HojinLim/CourseTodo/assets/69897998/3be8621d-5464-4439-b509-053e0bf2b107)
 
-
-
-![gif](https://github.com/HojinLim/CourseTodo/assets/69897998/006a4fee-55df-47ef-a3d2-5b920068be98)
+![2](https://github.com/HojinLim/CourseTodo/assets/69897998/4ded7732-22fa-426c-b1a9-2333ee65e84b)
